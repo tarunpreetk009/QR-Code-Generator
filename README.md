@@ -17,10 +17,10 @@ A simple and responsive web application that generates QR codes from user input 
 - **Library/API** – [Mention it if used, like `qrcode.js` or any public API]
 
 ## Project Structure
-├── index.html
-├── style.css
-├── script.js
-├── README.md
+- index.html
+- style.css
+- script.js
+- README.md
 
 
 ## What I Learned
