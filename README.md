@@ -19,7 +19,6 @@ A simple and responsive web application that generates QR codes from user input 
 ## Project Structure
 - index.html
 - style.css
-- script.js
 - README.md
 
 
